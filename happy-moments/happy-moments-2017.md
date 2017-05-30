@@ -97,4 +97,4 @@ Sea World with Elijah for his third birthday, fun times! Can't believe he is alr
 
 5/30/2017
 ---
-Got my GR1 in the mail today! So cooooool. 
+FINALLY fixed the media query bug in Tita Caroline's site. Shouts out to early morning Starbucks! 
