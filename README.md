@@ -21,6 +21,6 @@ Because complete transparency leads to accountability!
 - [] Finalize/submit PCS transfer package
 
 ### Things I'll do in the future:
-- [] Look into HSCA program for commission
+- [] Look into HSCP program for commission
 - [] E-mail UIW advisor for possible Major switch
 
