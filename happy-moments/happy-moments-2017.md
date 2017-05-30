@@ -94,3 +94,7 @@ Happy that after a rough couple of weeks, everything seems to be slowly getting 
 5/29/2017
 ---
 Sea World with Elijah for his third birthday, fun times! Can't believe he is already three! 
+
+5/30/2017
+---
+Got my GR1 in the mail today! So cooooool. 
