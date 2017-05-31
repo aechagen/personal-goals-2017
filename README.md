@@ -21,6 +21,8 @@ Because complete transparency leads to accountability!
 - [] Submit lost title form through DMV
 - [] Finalize/submit PCS transfer package
 - [] Fix alias to auto-push changes to Github from this repo
+- [] Submit TIS -> McNeese
+- [] Buy velcro for laptop/HD
 
 ### Things I'll do in the future:
 - [] Look into HSCP program for commission
