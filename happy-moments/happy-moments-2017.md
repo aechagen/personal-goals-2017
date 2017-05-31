@@ -100,4 +100,3 @@ Sea World with Elijah for his third birthday, fun times! Can't believe he is alr
 FINALLY fixed the media query bug in Tita Caroline's site. Shouts out to early morning Starbucks! 
 
 5/31/2017
----
