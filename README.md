@@ -19,9 +19,9 @@ Because complete transparency leads to accountability!
 ## Things I'll Do This Week:
 - [] Sort through household goods (sell, take, storage)
 - [] Submit lost title form through DMV
-- [] Finalize/submit PCS transfer package
+- [x] Finalize/submit PCS transfer package
 - [] Fix alias to auto-push changes to Github from this repo
-- [] Submit TIS -> McNeese
+- [x] Submit TIS -> McNeese
 - [] Buy velcro for laptop/HD
 
 ### Things I'll do in the future:

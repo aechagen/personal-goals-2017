@@ -101,3 +101,8 @@ FINALLY fixed the media query bug in Tita Caroline's site. Shouts out to early m
 
 5/31/2017
 ---
+Virginia is pregnant!
+
+6/1/2017
+---
+Finally making some progress on my Jekyll starter, even made my own "CSS Boilerplate" with stuff I like. Bang!
