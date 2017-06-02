@@ -29,3 +29,6 @@ Because complete transparency leads to accountability!
 - [] E-mail UIW advisor for possible Major switch
 - [] Slowly work web development back into my life
 
+### Notes to self:
+- Called NH Yokosuka, requested sponsor. Possible options for places to work are DMS (ER), DNS (MCI), or DFA (PAD/HR). Hope for DFA! 
+
