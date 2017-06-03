@@ -23,6 +23,7 @@ Because complete transparency leads to accountability!
 - [] Fix alias to auto-push changes to Github from this repo
 - [x] Submit TIS -> McNeese
 - [] Buy velcro for laptop/HD
+- [] Come up with questions for sponsor about Japan
 
 ### Things I'll do in the future:
 - [] Look into HSCP program for commission
@@ -32,4 +33,5 @@ Because complete transparency leads to accountability!
 ### Notes to self:
 - Called NH Yokosuka, requested sponsor. Possible options for places to work are DMS (ER), DNS (MCI), or DFA (PAD/HR). Hope for DFA! 
 - Apparently, you're a terrible person. Virginia tried to wake you up three times last night to help with Elijah waking up, but you told her you didn't want to? Good job asshole, maybe you should get checked up.
+	- Follow up: Schedule an appointment with MHP on Monday. (619)556-8101
 
