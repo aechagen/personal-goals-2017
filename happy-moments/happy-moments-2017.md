@@ -106,3 +106,7 @@ Virginia is pregnant!
 6/1/2017
 ---
 Finally making some progress on my Jekyll starter, even made my own "CSS Boilerplate" with stuff I like. Bang!
+
+6/2/2017
+---
+Got out pretty early today. Actually ate lunch with the family! 

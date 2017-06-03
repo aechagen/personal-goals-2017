@@ -31,4 +31,5 @@ Because complete transparency leads to accountability!
 
 ### Notes to self:
 - Called NH Yokosuka, requested sponsor. Possible options for places to work are DMS (ER), DNS (MCI), or DFA (PAD/HR). Hope for DFA! 
+- Apparently, you're a terrible person. Virginia tried to wake you up three times last night to help with Elijah waking up, but you told her you didn't want to? Good job asshole, maybe you should get checked up.
 
