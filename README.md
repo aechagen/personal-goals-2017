@@ -12,16 +12,18 @@ Because complete transparency leads to accountability!
 4. Increase online chess rating to 1400 (Blitz & Standard)
 5. Find ways to slowly work web development/coding back into my life
 
-# May 29 - June 4, 2017
+# June 5 - June 11, 2017
 
-### This Week's Goal: Sort through household goods
+### This Week's Goal: Submit EFMP paperwork to Japan
 
 ## Things I'll Do This Week:
-- [x] Sort through household goods (sell, take, storage)
-- [] Submit lost title form through DMV
-- [x] Fix alias to auto-push changes to Github from this repo
-- [x] Buy velcro for laptop/HD
-- [] Come up with questions for sponsor about Japan
+- [] No-Fee passport appointment (Virginia & Ethan)
+- [] MRI appointment (Virginia)
+- [] Submit household goods application
+- [] Notify Housing about orders
+- [] Follow up with sleep issue at MHP
+- [] Pick up glasses at Optometry
+- [] Start work on transfer eval
 
 ### Things I'll do in the future:
 - [] Look into HSCP program for commission
@@ -29,7 +31,5 @@ Because complete transparency leads to accountability!
 - [] Slowly work web development back into my life
 
 ### Notes to self:
-- Called NH Yokosuka, requested sponsor. Possible options for places to work are DMS (ER), DNS (MCI), or DFA (PAD/HR). Hope for DFA! 
-- Apparently, you're a terrible person. Virginia tried to wake you up three times last night to help with Elijah waking up, but you told her you didn't want to? Good job asshole, maybe you should get checked up.
-	- Follow up: Schedule an appointment with MHP on Monday. (619)556-8101
+
 
