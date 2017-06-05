@@ -110,3 +110,11 @@ Finally making some progress on my Jekyll starter, even made my own "CSS Boilerp
 6/2/2017
 ---
 Got out pretty early today. Actually ate lunch with the family! 
+
+6/3/2017
+---
+Spent some time with my mom and Randy at Lolita's for lunch.. That was pretty cool.
+
+6/4/2017
+---
+Guy at Costco passport photo place said Ethan's eyes are "looking straight into your soul"

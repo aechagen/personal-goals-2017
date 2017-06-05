@@ -17,12 +17,10 @@ Because complete transparency leads to accountability!
 ### This Week's Goal: Sort through household goods
 
 ## Things I'll Do This Week:
-- [] Sort through household goods (sell, take, storage)
+- [x] Sort through household goods (sell, take, storage)
 - [] Submit lost title form through DMV
-- [x] Finalize/submit PCS transfer package
-- [] Fix alias to auto-push changes to Github from this repo
-- [x] Submit TIS -> McNeese
-- [] Buy velcro for laptop/HD
+- [x] Fix alias to auto-push changes to Github from this repo
+- [x] Buy velcro for laptop/HD
 - [] Come up with questions for sponsor about Japan
 
 ### Things I'll do in the future:
